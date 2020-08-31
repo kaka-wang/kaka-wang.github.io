@@ -1,8 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "关于我"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+我是一个有点害羞内向的小男孩。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+虽然可能刚开始会不太说话或者上课不是那么积极，呆呆木木的，但是熟悉起来之后应该就会好转。
+
+虽然脑子不是很灵光，也会经常落东西，但我总是会在老师同学有困难时帮助他们。
