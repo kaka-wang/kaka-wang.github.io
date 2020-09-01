@@ -61,10 +61,10 @@ author:
   bio    : "大自然真有趣"
   links:
     - label: "树树的博客"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-tree"
       url: "http://blog.sina.com.cn/u/1402077497"
     - label: "我小时候"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-baby"
       url: "http://blog.sina.com.cn/819kaka"
     - label: "昆虫博物馆"
       icon: "fas fa-fw fa-spider"
